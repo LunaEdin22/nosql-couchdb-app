@@ -14,8 +14,9 @@ A production-ready microservice built with **FastAPI** and **Apache CouchDB** de
 
 ---
 
-## Live Cloud Deployment & Video Demo
+## Live Cloud Deployment, Article & Video Demo
 
+- **Published Article (Hashnode):** [https://edinsonluna22.hashnode.dev/beyond-mongodb-and-redis-building-and-deploying-a-cloud-native-nosql-document-api-with-apache-couchdb-fastapi-and-automated-ci-cd](https://edinsonluna22.hashnode.dev/beyond-mongodb-and-redis-building-and-deploying-a-cloud-native-nosql-document-api-with-apache-couchdb-fastapi-and-automated-ci-cd)
 - **Video Walkthrough (YouTube):** [https://youtu.be/rKqgC9_2xaw](https://youtu.be/rKqgC9_2xaw)
 - **Public Interactive Docs (Swagger):** [https://volt-mere-inputs-nothing.trycloudflare.com/docs](https://volt-mere-inputs-nothing.trycloudflare.com/docs)
 - **Public API Root:** [https://volt-mere-inputs-nothing.trycloudflare.com/](https://volt-mere-inputs-nothing.trycloudflare.com/)
