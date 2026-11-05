@@ -14,8 +14,9 @@ A production-ready microservice built with **FastAPI** and **Apache CouchDB** de
 
 ---
 
-## Live Cloud Deployment
+## Live Cloud Deployment & Video Demo
 
+- **Video Walkthrough (YouTube):** [https://youtu.be/rKqgC9_2xaw](https://youtu.be/rKqgC9_2xaw)
 - **Public Interactive Docs (Swagger):** [https://volt-mere-inputs-nothing.trycloudflare.com/docs](https://volt-mere-inputs-nothing.trycloudflare.com/docs)
 - **Public API Root:** [https://volt-mere-inputs-nothing.trycloudflare.com/](https://volt-mere-inputs-nothing.trycloudflare.com/)
 - **Public Products Endpoint:** [https://volt-mere-inputs-nothing.trycloudflare.com/products](https://volt-mere-inputs-nothing.trycloudflare.com/products)
